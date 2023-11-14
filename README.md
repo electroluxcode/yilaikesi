@@ -8,14 +8,6 @@
 - 📮 3451613934@qq.com
 - 📖 https://juejin.cn/user/3004311888208296/columns
 
-<table border=0 style="overflow: hidden;">
-  <tr>
-    <td><img src="https://4sdvg7tqbv.us.aircode.run/juejin?uid=3004311888208296&hide_border=true" alt="Electrolux的掘金数据" style="zoom:100%;" align="left"/></td>
-  </tr>
-</table>
-
-
-
 
 
 > 部分贡献过pr的项目
