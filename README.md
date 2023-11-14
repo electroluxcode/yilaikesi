@@ -5,7 +5,7 @@
 > Welcome to communicate!
 
 - 💼 be interested in code
-- 📮 3451613934@qq.com
+- 📮 electroluxcode@gmail.com
 - 📖 https://juejin.cn/user/3004311888208296/columns
 
 
