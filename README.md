@@ -26,8 +26,8 @@
 
 <table border=0 style="overflow: hidden;">
   <tr>
-    <td><a href="https://github.com/vuejs/pinia" >
-        <img align="center" style="height:150px" src="https://github-readme-stats.vercel.app/api/pin/?username=vuejs&repo=pinia&theme=vue-light" />
+    <td><a href="https://github.com/XboxYan/xy-ui" >
+        <img align="center" style="height:150px" src="https://github-readme-stats.vercel.app/api/pin/?username=XboxYan&repo=xy-ui&theme=vue-light" />
   </a> </td>
     <td><a href="https://github.com/ant-design/ant-design"><img  style="height:150px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ant-design&repo=ant-design&theme=vue-light" />
   </a></td>
